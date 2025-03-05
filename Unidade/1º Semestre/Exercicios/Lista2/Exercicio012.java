@@ -7,8 +7,6 @@ public class Exercicio012 {
          * Entradas: x1, y1, x2, y2
          * Saída: distancia
          * Processos: distancia = Math.sqrt(Math.pow((x2 - x1), 2) + Math.pow(y2 - y1))
-         * Fluxograma:
-         * "C:\Users\escholl\OneDrive - FURB\Documentos\FURB\IP\U2\Exe12.drawio"
          * Testes:
          * x1 | 2 | 30 | 40 |
          * y1 | -2 | 2 | 2 |
