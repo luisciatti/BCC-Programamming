@@ -7,7 +7,6 @@ public class Exercicio04 {
          * Entradas: nA, nB
          * Saída: media
          * Processos: media = (nA * 3.5 + nB * 7.5) / 11
-         * Fluxograma: "C:\Users\escholl\OneDrive - FURB\Documentos\FURB\IP\U2\Exe04.drawio"
          * Testes:
          * nA | 10 | 7,7 | 6 |
          * nB | 10 | 6,5 | 9 |
