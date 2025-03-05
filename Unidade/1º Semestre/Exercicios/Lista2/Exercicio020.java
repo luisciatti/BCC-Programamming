@@ -8,7 +8,6 @@ public class Exercicio020 {
          * Saída: nQuadrados
          * Processos: nQuadrados = nDobras * 2
          * Fluxograma:
-         * "C:\Users\escholl\OneDrive - FURB\Documentos\FURB\IP\U2\Exe20.drawio"
          * Testes:
          * nDobras | 2 | 4 | 40 |
          * nQuadrados | 4 | 8 | 80 |
