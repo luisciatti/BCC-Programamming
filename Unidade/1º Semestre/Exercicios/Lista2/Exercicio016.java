@@ -7,8 +7,6 @@ public class Exercicio016 {
          * Entradas: lataQ, garrafaMlQ, garrafaLQ
          * Saída: total
          * Processos: total = lataQ * 350 + garrafaMlQ * 600 + garrafaLQ * 2000
-         * Fluxograma:
-         * "C:\Users\escholl\OneDrive - FURB\Documentos\FURB\IP\U2\Exe16.drawio"
          * Testes:
          * lataQ | 10 | 5 | 5 |
          * garrfaMlQ | 1 | 23 | 4 |
