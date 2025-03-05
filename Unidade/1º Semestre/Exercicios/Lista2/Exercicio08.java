@@ -7,7 +7,6 @@ public class Exercicio08 {
          * Entradas: nP1, nP2, vP1, vP2
          * Saída: valor
          * Processos: valor = nP1 * vP1 + nP2 * vP2
-         * Fluxograma: "C:\Users\escholl\OneDrive - FURB\Documentos\FURB\IP\U2\Exe08.drawio"
          * Testes:
          * nP1 | 2 | 50 | 5 |
          * nP2 | 2 | 20 | 1 |
