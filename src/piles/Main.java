@@ -85,9 +85,9 @@ public class Main {
 
         // Caso 2 3
         PilhaLista<Integer> p11 = new PilhaLista<>();
-        p3.push(10);
-        p3.push(20);
-        p3.push(30);
+        p11.push(10);
+        p11.push(20);
+        p11.push(30);
         System.out.println("Caso 3: " + p11.pop()); // 30
         System.out.println("Caso 3: " + p11.pop()); // 20
         System.out.println("Caso 3: " + p11.pop()); // 10
@@ -95,9 +95,9 @@ public class Main {
 
         // Caso 2 4
         PilhaLista<Integer> p12 = new PilhaLista<>();
-        p4.push(10);
-        p4.push(20);
-        p4.push(30);
+        p12.push(10);
+        p12.push(20);
+        p12.push(30);
         System.out.println("Caso 4: topo = " + p12.peek()); // 30
         System.out.println("Caso 4: pop = " + p12.pop());   // 30
 
